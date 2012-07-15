@@ -18,8 +18,6 @@
 PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/librilpos.so:system/lib/librilpos.so \
   vendor/htc/endeavoru/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
-  vendor/htc/endeavoru/proprietary/lib/libril.so:system/lib/libril.so \
-  vendor/htc/endeavoru/proprietary/bin/rild:system/bin/rild \
   vendor/htc/endeavoru/proprietary/etc/nfcee_access.xml:system/etc/nfcee_access.xml \
   vendor/htc/endeavoru/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so \
   vendor/htc/endeavoru/proprietary/usr/keylayout/tegra-kbc.kl:system/usr/keylayout/tegra-kbc.kl \
