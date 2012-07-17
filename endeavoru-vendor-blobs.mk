@@ -178,6 +178,10 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/libnvasfparserhal.so:system/lib/libnvasfparserhal.so \
   vendor/htc/endeavoru/proprietary/lib/libnvaviparserhal.so:system/lib/libnvaviparserhal.so \
   vendor/htc/endeavoru/proprietary/lib/libnvavp.so:system/lib/libnvavp.so \
+  vendor/htc/endeavoru/proprietary/lib/libWVStreamControlAPI_L1.so:system/lib/libWVStreamControlAPI_L1.so \
+  vendor/htc/endeavoru/proprietary/lib/libwvm.so:system/lib/libwvm.so \
+  vendor/htc/endeavoru/proprietary/lib/libwvdrm_L1.so:system/lib/libwvdrm_L1.so \
+  vendor/htc/endeavoru/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
   vendor/htc/endeavoru/proprietary/etc/soundimage/CodecDSPID.txt:system/etc/soundimage/CodecDSPID.txt \
   vendor/htc/endeavoru/proprietary/etc/soundimage/CodecDSPID_XC.txt:system/etc/soundimage/CodecDSPID_XC.txt \
   vendor/htc/endeavoru/proprietary/etc/soundimage/Sound_BT_CarMode.txt:system/etc/soundimage/Sound_BT_CarMode.txt \
