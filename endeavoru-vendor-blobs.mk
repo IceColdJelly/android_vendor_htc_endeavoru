@@ -230,6 +230,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/libsrsprocessing.so:system/lib/libsrsprocessing.so \
   vendor/htc/endeavoru/proprietary/lib/libsrscorehtc.so:system/lib/libsrscorehtc.so \
   vendor/htc/endeavoru/proprietary/bin/snd3008:system/bin/snd3008 \
+  vendor/htc/endeavoru/proprietary/bin/alsa_amixer:system/bin/alsa_amixer \
   vendor/htc/endeavoru/proprietary/lib/libmllite.so:system/lib/libmllite.so \
   vendor/htc/endeavoru/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
   vendor/htc/endeavoru/proprietary/lib/libmpl.so:system/lib/libmpl.so \
