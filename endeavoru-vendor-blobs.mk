@@ -236,6 +236,8 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/libmpl.so:system/lib/libmpl.so \
   vendor/htc/endeavoru/proprietary/lib/libmpl_jni.so:system/lib/libmpl_jni.so \
   vendor/htc/endeavoru/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
+  vendor/htc/endeavoru/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
+  vendor/htc/endeavoru/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
   vendor/htc/endeavoru/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
   vendor/htc/endeavoru/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
   vendor/htc/endeavoru/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
